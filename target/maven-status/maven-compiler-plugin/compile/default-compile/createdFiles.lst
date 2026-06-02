@@ -1,0 +1,17 @@
+tacos\Ingredient$Type.class
+tacos\IngredientRef.class
+tacos\TacoOrder.class
+tacos\data\UserRepository.class
+tacos\Taco.class
+tacos\security\RegistrationController.class
+tacos\Ingredient.class
+tacos\security\SecurityConfig.class
+tacos\web\DesignTacoController.class
+tacos\data\OrderRepository.class
+tacos\User.class
+tacos\security\RegistrationForm.class
+tacos\TacocloudApplication.class
+tacos\data\IngredientRepository.class
+tacos\web\IngredientByIdConverter.class
+tacos\HomeController.class
+tacos\web\OrderController.class
